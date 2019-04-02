@@ -1,1 +1,1 @@
-this is a class of global software managment
+this is a class of global software testing and managment
